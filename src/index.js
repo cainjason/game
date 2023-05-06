@@ -5,6 +5,7 @@ import Header from './components/Header.js';
 import Navbar from './components/Navbar.js';
 import Img from './components/Img.js';
 import Footer from './components/Footer.js';
+import './components/styles/index.css';
 
 
 function Game () {
